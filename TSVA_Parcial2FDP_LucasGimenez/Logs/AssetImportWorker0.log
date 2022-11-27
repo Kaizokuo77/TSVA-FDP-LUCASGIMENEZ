@@ -134,3 +134,4 @@ Received Import Request.
   path: Assets/PostProcessing/PostProcessingProfile.asset
   artifactKey: Guid(82a7d00c2ea92a641b564b3fbe3e102c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/PostProcessing/PostProcessingProfile.asset using Guid(82a7d00c2ea92a641b564b3fbe3e102c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a8c107a00e9d8ac292cd4f1fede2a5') in 0.072939 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
